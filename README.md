@@ -1,4 +1,21 @@
-### Hi there 👋
+### Hello everyone
+
+My name is Dmitriy, I'm Android/KMP developer. Love solving algorithms, review other's code, playing board games and volleyball.
+
+🔥 **I'm currently working on**:
+ - 💊 private projects in MedTech field
+ - 🧐 Code reviewer in Yandex Practicum
+
+🙋‍♂️ **My other projects**:
+ - work in progress
+
+🧐 **Additional resources**:
+ - work in progress
+
+📫 You can also find me there:
+ - Telegram -
+ - My LinkedIn page
+
 
 <!--
 **doc-ODA/doc-ODA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
