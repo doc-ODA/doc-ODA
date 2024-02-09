@@ -4,7 +4,7 @@ My name is Dmitriy, I'm Android/KMP developer. Love solving algorithms, review o
 
 🔥 **I'm currently working on**:
  - 💊 private projects in MedTech field
- - 🧐 Code reviewer in Yandex Practicum
+ - 🧐 Code reviewer at Yandex
 
 🙋‍♂️ **My other projects**:
  - work in progress
@@ -14,7 +14,8 @@ My name is Dmitriy, I'm Android/KMP developer. Love solving algorithms, review o
 
 📫 You can also find me there:
  - Telegram -
- - My LinkedIn page
+ - My LinkedIn page -
+ - My Gists page - 
 
 
 <!--
